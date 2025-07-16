@@ -1,6 +1,10 @@
 name: Update Production Data
+
+permissions:
+  contents: write
+  actions: read
+
 on:
-  # Manuel tetikleme - GitHub'da buton ile çalıştırabilirsiniz
   workflow_dispatch:
     inputs:
       update_reason:
@@ -8,9 +12,8 @@ on:
         required: false
         default: 'Manuel güncelleme'
   
-  # Otomatik tetikleme - Her 6 saatte bir
   schedule:
-    - cron: '0 */6 * * *'  # 00:00, 06:00, 12:00, 18:00
+    - cron: '0 */6 * * *'
 
 jobs:
   update-data:
@@ -20,7 +23,10 @@ jobs:
     steps:
     - name: Repository'yi İndir
       uses: actions/checkout@v4
-      
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+        
     - name: Mevcut Zamanı Al
       id: timestamp
       run: |
@@ -29,72 +35,79 @@ jobs:
     
     - name: Test Verisi Güncelle
       run: |
+        # Yeni JSON verisini oluştur
         cat > data.json << 'EOF'
         {
           "data": [
             {
-              "Üretim Haftası": "$(date +%U)",
-              "CRMOrderNo": "AUTO-$(date +%m%d)",
+              "Üretim Haftası": "51",
+              "CRMOrderNo": "AUTO-1216",
               "Kullanım": "Mutfak",
               "Mağaza": "Migros",
-              "Müşteri": "Otomatik Test",
-              "Modül Adet": "$(shuf -i 10-50 -n 1)",
-              "Üreticiye Aktarım Tarihi": "$(date +'%d.%m.%Y')",
+              "Müşteri": "Otomatik Test Şirketi",
+              "Modül Adet": "25",
+              "Üreticiye Aktarım Tarihi": "16.12.2024",
               "Kapak Prg": "Evet",
               "Tamamlayıcı Prg": "Hayır",
               "Gövde Rengi": "Beyaz",
               "Teslim Alındı mı?": "Hayır",
-              "Lake Gidiş": "$(date -d '+1 day' +'%d.%m.%Y')",
-              "Lake Termin": "$(date -d '+5 days' +'%d.%m.%Y')",
-              "Lake Dönüş": "$(date -d '+7 days' +'%d.%m.%Y')",
+              "Lake Gidiş": "17.12.2024",
+              "Lake Termin": "21.12.2024",
+              "Lake Dönüş": "23.12.2024",
               "İndex": "AUTO-1",
               "E/L": "E",
-              "Proje Türü": "Otomatik"
+              "Proje Türü": "Otomatik Test"
             },
             {
-              "Üretim Haftası": "$(date +%U)",
-              "CRMOrderNo": "AUTO-$(date +%m%d)-2",
+              "Üretim Haftası": "51",
+              "CRMOrderNo": "AUTO-1216-2",
               "Kullanım": "Banyo",
               "Mağaza": "Carrefour", 
-              "Müşteri": "Test Şirketi",
-              "Modül Adet": "$(shuf -i 5-30 -n 1)",
-              "Üreticiye Aktarım Tarihi": "$(date +'%d.%m.%Y')",
+              "Müşteri": "Test A.Ş.",
+              "Modül Adet": "15",
+              "Üreticiye Aktarım Tarihi": "16.12.2024",
               "Kapak Prg": "Hayır",
               "Tamamlayıcı Prg": "Evet",
               "Gövde Rengi": "Gri",
               "Teslim Alındı mı?": "Hayır", 
-              "Lake Gidiş": "$(date -d '+2 days' +'%d.%m.%Y')",
-              "Lake Termin": "$(date -d '+6 days' +'%d.%m.%Y')",
-              "Lake Dönüş": "$(date -d '+8 days' +'%d.%m.%Y')",
+              "Lake Gidiş": "18.12.2024",
+              "Lake Termin": "22.12.2024",
+              "Lake Dönüş": "24.12.2024",
               "İndex": "AUTO-2",
               "E/L": "L",
-              "Proje Türü": "Test"
+              "Proje Türü": "Test Premium"
             }
           ],
           "columns": ["Üretim Haftası", "CRMOrderNo", "Kullanım", "Mağaza", "Müşteri", "Modül Adet", "Üreticiye Aktarım Tarihi", "Kapak Prg", "Tamamlayıcı Prg", "Gövde Rengi", "Teslim Alındı mı?", "Lake Gidiş", "Lake Termin", "Lake Dönüş", "İndex", "E/L", "Proje Türü"],
           "total_rows": 2,
           "original_rows": 2,
           "filtered_rows": 0,
-          "last_updated": "${{ steps.timestamp.outputs.iso_time }}",
+          "last_updated": "CURRENT_TIME_PLACEHOLDER",
           "missing_columns": [],
           "auto_updated": true,
           "update_source": "GitHub Actions"
         }
         EOF
         
+        # Zamanı güncelle
+        sed -i "s/CURRENT_TIME_PLACEHOLDER/${{ steps.timestamp.outputs.iso_time }}/g" data.json
+        
         echo "✅ data.json güncellendi: $(date +'%d.%m.%Y %H:%M')"
+        echo "📄 Dosya boyutu: $(wc -c < data.json) bytes"
     
     - name: Değişiklikleri Commit Et
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Actions Bot"
+        git config --local user.name "GitHub Actions Bot 🤖"
         git add data.json
         
         if git diff --staged --quiet; then
           echo "Değişiklik yok, commit atlanıyor"
         else
           git commit -m "🤖 Otomatik veri güncelleme - ${{ steps.timestamp.outputs.current_time }}"
-          git push
+          git push origin main
           echo "✅ Değişiklikler GitHub'a gönderildi"
         fi
     
@@ -104,4 +117,5 @@ jobs:
         echo "- **Zaman:** ${{ steps.timestamp.outputs.current_time }}" >> $GITHUB_STEP_SUMMARY
         echo "- **Durum:** ✅ Başarılı" >> $GITHUB_STEP_SUMMARY
         echo "- **Güncellenen Dosya:** data.json" >> $GITHUB_STEP_SUMMARY
-        echo "- **Site URL:** https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Site URL:** https://denizozarikan93.github.io/uretimplan" >> $GITHUB_STEP_SUMMARY
+        echo "- **Dosya Boyutu:** $(wc -c < data.json) bytes" >> $GITHUB_STEP_SUMMARY
