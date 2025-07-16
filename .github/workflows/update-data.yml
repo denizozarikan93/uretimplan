@@ -1,0 +1,107 @@
+name: Update Production Data
+on:
+  # Manuel tetikleme - GitHub'da buton ile çalıştırabilirsiniz
+  workflow_dispatch:
+    inputs:
+      update_reason:
+        description: 'Güncelleme nedeni'
+        required: false
+        default: 'Manuel güncelleme'
+  
+  # Otomatik tetikleme - Her 6 saatte bir
+  schedule:
+    - cron: '0 */6 * * *'  # 00:00, 06:00, 12:00, 18:00
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    name: Veri Güncelleme İşi
+    
+    steps:
+    - name: Repository'yi İndir
+      uses: actions/checkout@v4
+      
+    - name: Mevcut Zamanı Al
+      id: timestamp
+      run: |
+        echo "current_time=$(date +'%d.%m.%Y %H:%M')" >> $GITHUB_OUTPUT
+        echo "iso_time=$(date -u +"%Y-%m-%dT%H:%M:%S")" >> $GITHUB_OUTPUT
+    
+    - name: Test Verisi Güncelle
+      run: |
+        cat > data.json << 'EOF'
+        {
+          "data": [
+            {
+              "Üretim Haftası": "$(date +%U)",
+              "CRMOrderNo": "AUTO-$(date +%m%d)",
+              "Kullanım": "Mutfak",
+              "Mağaza": "Migros",
+              "Müşteri": "Otomatik Test",
+              "Modül Adet": "$(shuf -i 10-50 -n 1)",
+              "Üreticiye Aktarım Tarihi": "$(date +'%d.%m.%Y')",
+              "Kapak Prg": "Evet",
+              "Tamamlayıcı Prg": "Hayır",
+              "Gövde Rengi": "Beyaz",
+              "Teslim Alındı mı?": "Hayır",
+              "Lake Gidiş": "$(date -d '+1 day' +'%d.%m.%Y')",
+              "Lake Termin": "$(date -d '+5 days' +'%d.%m.%Y')",
+              "Lake Dönüş": "$(date -d '+7 days' +'%d.%m.%Y')",
+              "İndex": "AUTO-1",
+              "E/L": "E",
+              "Proje Türü": "Otomatik"
+            },
+            {
+              "Üretim Haftası": "$(date +%U)",
+              "CRMOrderNo": "AUTO-$(date +%m%d)-2",
+              "Kullanım": "Banyo",
+              "Mağaza": "Carrefour", 
+              "Müşteri": "Test Şirketi",
+              "Modül Adet": "$(shuf -i 5-30 -n 1)",
+              "Üreticiye Aktarım Tarihi": "$(date +'%d.%m.%Y')",
+              "Kapak Prg": "Hayır",
+              "Tamamlayıcı Prg": "Evet",
+              "Gövde Rengi": "Gri",
+              "Teslim Alındı mı?": "Hayır", 
+              "Lake Gidiş": "$(date -d '+2 days' +'%d.%m.%Y')",
+              "Lake Termin": "$(date -d '+6 days' +'%d.%m.%Y')",
+              "Lake Dönüş": "$(date -d '+8 days' +'%d.%m.%Y')",
+              "İndex": "AUTO-2",
+              "E/L": "L",
+              "Proje Türü": "Test"
+            }
+          ],
+          "columns": ["Üretim Haftası", "CRMOrderNo", "Kullanım", "Mağaza", "Müşteri", "Modül Adet", "Üreticiye Aktarım Tarihi", "Kapak Prg", "Tamamlayıcı Prg", "Gövde Rengi", "Teslim Alındı mı?", "Lake Gidiş", "Lake Termin", "Lake Dönüş", "İndex", "E/L", "Proje Türü"],
+          "total_rows": 2,
+          "original_rows": 2,
+          "filtered_rows": 0,
+          "last_updated": "${{ steps.timestamp.outputs.iso_time }}",
+          "missing_columns": [],
+          "auto_updated": true,
+          "update_source": "GitHub Actions"
+        }
+        EOF
+        
+        echo "✅ data.json güncellendi: $(date +'%d.%m.%Y %H:%M')"
+    
+    - name: Değişiklikleri Commit Et
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions Bot"
+        git add data.json
+        
+        if git diff --staged --quiet; then
+          echo "Değişiklik yok, commit atlanıyor"
+        else
+          git commit -m "🤖 Otomatik veri güncelleme - ${{ steps.timestamp.outputs.current_time }}"
+          git push
+          echo "✅ Değişiklikler GitHub'a gönderildi"
+        fi
+    
+    - name: Güncelleme Özeti
+      run: |
+        echo "## 📊 Güncelleme Raporu" >> $GITHUB_STEP_SUMMARY
+        echo "- **Zaman:** ${{ steps.timestamp.outputs.current_time }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Durum:** ✅ Başarılı" >> $GITHUB_STEP_SUMMARY
+        echo "- **Güncellenen Dosya:** data.json" >> $GITHUB_STEP_SUMMARY
+        echo "- **Site URL:** https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}" >> $GITHUB_STEP_SUMMARY
