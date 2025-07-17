@@ -122,36 +122,6 @@
     },
     {
       "Üretim Haftası": "7-11 Temmuz 2025",
-      "CRMOrderNo": "140550",
-      "Kullanım": "Mutfak",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "Pınar Balcı",
-      "Modül Adet": "13.0",
-      "Üreticiye Aktarım Tarihi": "18.06.2025",
-      "Kapak Prg": "-V2-",
-      "Tamamlayıcı Prg": "-DP-KM-KDP-",
-      "Gövde Rengi": "W310_Beyaz",
-      "Teslim Alındı mı?": "-",
-      "İndex": "112.0",
-      "E/L": "Endüstriyel"
-    },
-    {
-      "Üretim Haftası": "7-11 Temmuz 2025",
-      "CRMOrderNo": "140100",
-      "Kullanım": "Mutfak",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "Osman Tugay",
-      "Modül Adet": "11.0",
-      "Üreticiye Aktarım Tarihi": "18.06.2025",
-      "Kapak Prg": "-X1-",
-      "Tamamlayıcı Prg": "-X1T-SYH-",
-      "Gövde Rengi": "A285_Antrasit",
-      "Teslim Alındı mı?": "-",
-      "İndex": "112.0",
-      "E/L": "Endüstriyel"
-    },
-    {
-      "Üretim Haftası": "7-11 Temmuz 2025",
       "CRMOrderNo": "139688",
       "Kullanım": "Mutfak",
       "Proje Türü": "Mutfak Sipariş",
@@ -257,21 +227,6 @@
     },
     {
       "Üretim Haftası": "14-18 Temmuz 2025",
-      "CRMOrderNo": "140343",
-      "Kullanım": "Mutfak",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "Batuhan Doruk",
-      "Modül Adet": "11.0",
-      "Üreticiye Aktarım Tarihi": "11.06.2025",
-      "Kapak Prg": "-MG-",
-      "Tamamlayıcı Prg": "-MGT-KM-ML-CMT-",
-      "Gövde Rengi": "A285_Antrasit",
-      "Teslim Alındı mı?": "-",
-      "İndex": "113.0",
-      "E/L": "Lake"
-    },
-    {
-      "Üretim Haftası": "14-18 Temmuz 2025",
       "CRMOrderNo": "140897",
       "Kullanım": "Ek siparis Modül",
       "Proje Türü": "Mutfak Sipariş",
@@ -329,21 +284,6 @@
       "Teslim Alındı mı?": "-",
       "İndex": "113.0",
       "E/L": "Endüstriyel"
-    },
-    {
-      "Üretim Haftası": "14-18 Temmuz 2025",
-      "CRMOrderNo": "141126",
-      "Kullanım": "Mutfak",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "SİBEL ÜĞDÜL",
-      "Modül Adet": "2.0",
-      "Üreticiye Aktarım Tarihi": "7.07.2025",
-      "Kapak Prg": "-V1-",
-      "Tamamlayıcı Prg": "-ML-X1T-KM-",
-      "Gövde Rengi": "F236_Koton Vizon",
-      "Teslim Alındı mı?": "-",
-      "İndex": "113.0",
-      "E/L": "Lake"
     },
     {
       "Üretim Haftası": "21-25 Temmuz 2025",
@@ -1861,9 +1801,9 @@
     "İndex",
     "E/L"
   ],
-  "total_rows": 123,
+  "total_rows": 119,
   "original_rows": 2950,
-  "filtered_rows": 2827,
-  "last_updated": "2025-07-16T23:07:22.784295",
+  "filtered_rows": 2831,
+  "last_updated": "2025-07-17T15:10:03.139425",
   "missing_columns": []
 }
