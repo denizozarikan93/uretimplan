@@ -1,52 +1,28 @@
 ﻿Üretim Haftası,CRMOrderNo,Kullanım,Proje Türü,Müşteri,Modül Adet,Üreticiye Aktarım Tarihi,Kapak Prg,Tamamlayıcı Prg,Gövde Rengi,Teslim Alındı mı?,İndex,E/L
-7-11 Temmuz 2025,140178,Mutfak,Mutfak Sipariş,Ahmet Alemdar,21.0,3.06.2025,-B8-,-ML-MDF-KM-,F236_Koton Vizon,-,112.0,Lake
-14-18 Temmuz 2025,140261,Mutfak,Mutfak Sipariş,VATAN KONUT,19.0,10.06.2025,-B8-ND1S-,-ML-KM-,W310_Beyaz,-,113.0,Lake
-14-18 Temmuz 2025,140191,Mutfak,Mutfak Sipariş,NİHAN ALTINBAŞ,19.0,3.06.2025,-T6-,-ML-KM-,F236_Koton Vizon,-,113.0,Lake
-21-25 Temmuz 2025,140108,Mutfak,Mutfak Sipariş,Mustafa İlkay Dost,12.0,16.06.2025,-B8-,-ML-,A285_Antrasit,-,114.0,Lake
-21-25 Temmuz 2025,139632,Mutfak,Mutfak Sipariş,THERMODYNAMIK İNŞAAT,14.0,11.06.2025,-B8-F1-,-ML-KDP-,F236_Koton Vizon,-,114.0,Lake
 21-25 Temmuz 2025,140288,Mutfak,Mutfak Sipariş,GÖKHAN GÖKÇE,13.0,10.06.2025,-ZD3O-B3-,-GL-KM-SYH-,F236_Koton Vizon,-,114.0,Lake
 21-25 Temmuz 2025,140248,Mutfak,Mutfak Sipariş,VATAN KONUT,20.0,10.06.2025,-B8-ZY3F-N1-,-ML-KM-MDF-,F236_Koton Vizon,-,114.0,Doğal Ahşap
 21-25 Temmuz 2025,140260,Mutfak,Mutfak Sipariş,VATAN KONUT,20.0,10.06.2025,-B8-ZY3F-N1-,-KM-ML-MDF-,F236_Koton Vizon,-,114.0,Doğal Ahşap
-21-25 Temmuz 2025,138770,Mutfak,Mutfak Sipariş,Özlem Peynirci,29.0,17.06.2025,-MG-ZY3F-,-MGT-MDF-KM-ML-,A285_Antrasit,-,114.0,Lake
-21-25 Temmuz 2025,140845,Mutfak,Toplu İş Siparişi,Remley İnş. Taahhüt Trz. Tşm. San.,33.0,1.07.2025,-MG-ZD3F-,-MGT-MDF-KM-SYH-,F236_Koton Vizon,-,114.0,Endüstriyel
-21-25 Temmuz 2025,140984,Mutfak,Toplu İş Siparişi,Consera Yapi End. ve Taah. Ltd. Sti,19.0,2.07.2025,-CM-,-CMT-GFR-,F236_Koton Vizon,-,114.0,Endüstriyel
-21-25 Temmuz 2025,140986,Mutfak,Toplu İş Siparişi,Consera Yapi End. ve Taah. Ltd. Sti,23.0,2.07.2025,-CM-,-CMT-GFR-,F236_Koton Vizon,-,114.0,Endüstriyel
 21-25 Temmuz 2025,140985,Mutfak,Toplu İş Siparişi,Consera Yapi End. ve Taah. Ltd. Sti,23.0,2.07.2025,-CM-,-CMT-GFR-,F236_Koton Vizon,-,114.0,Endüstriyel
-21-25 Temmuz 2025,140180,Mutfak,Mutfak Sipariş,SERDAR ALP,19.0,3.06.2025,-V1-,-ML-KM-AL-,F236_Koton Vizon,-,114.0,Lake
 21-25 Temmuz 2025,140346,Mutfak,Mutfak Sipariş,BV HORTUM PLASTİK KAUÇUK MAKİNE SAN,8.0,11.06.2025,-N1-,-ND-,A285_Antrasit,-,114.0,Doğal Ahşap
-21-25 Temmuz 2025,140912,Mutfak,Mutfak Sipariş,AHMET ZAMANTILI,21.0,2.07.2025,-V2-V4C-,-DP-FDP-KM-KDP-,F236_Koton Vizon,-,114.0,Endüstriyel
-21-25 Temmuz 2025,140794,Mutfak,Mutfak Sipariş,Bahadır Erdem,16.0,4.07.2025,-V2-ND5O-,-DP-KM-,F236_Koton Vizon,-,114.0,Endüstriyel
-21-25 Temmuz 2025,140263,Mutfak,Mutfak Sipariş,VATAN KONUT,19.0,10.06.2025,-V1-V3C-,-ML-KM-,F236_Koton Vizon,-,114.0,Lake
 28 Temmuz-1 Ağustos 2025,140641,Ek siparis Modül,Mutfak Sipariş,ERTUĞRUL ONUR,1.0,20.06.2025,-V1-,-ML-,F236_Koton Vizon,-,115.0,Lake
 28 Temmuz-1 Ağustos 2025,141101,Mutfak,Toplu İş Siparişi,Consera Yapi End. ve Taah. Ltd. Sti,20.0,7.07.2025,-CM-,-CMT-GFR-,F236_Koton Vizon,-,115.0,Endüstriyel
-28 Temmuz-1 Ağustos 2025,141145,Ek siparis Modül,Reklamasyon Siparis,TUĞÇE VARDARLI,2.0,9.07.2025,-MG-ND3F-,-,F236_Koton Vizon,-,115.0,Endüstriyel
 28 Temmuz-1 Ağustos 2025,140161,Mutfak,Mutfak Sipariş,Bilgehan Bilgiç,26.0,11.06.2025,-V1-V3C-,-ML-FML-KM-,F236_Koton Vizon,-,115.0,Lake
-28 Temmuz-1 Ağustos 2025,141037,Mutfak,Mutfak Sipariş,UĞUR BURAN,13.0,9.07.2025,-T1-,-DP-KM-AL-,F236_Koton Vizon,-,115.0,Endüstriyel
 28 Temmuz-1 Ağustos 2025,141136,Mutfak,Mutfak Sipariş,İLKER VURUŞKAN,15.0,11.07.2025,-T1-DM-ZD3F-,-DP-DMT-SYH-,F236_Koton Vizon,-,115.0,Endüstriyel
 28 Temmuz-1 Ağustos 2025,140587,Mutfak,Mutfak Sipariş,HASAN ATAY,26.0,20.06.2025,-HA-ND3F-B8-,-ND-FML-KM-SYH-,F236_Koton Vizon,-,115.0,Doğal Ahşap
 28 Temmuz-1 Ağustos 2025,140418,Mutfak,Mutfak Sipariş,SAY İNŞAAT,39.0,16.06.2025,-T7-,-GL-,W310_Beyaz,-,115.0,Lake
 28 Temmuz-1 Ağustos 2025,141196,Mutfak,Mutfak Sipariş,Özlem Ülgen,25.0,14.07.2025,-V4C-V2-,-DP-FDP-KDP-,F236_Koton Vizon,-,115.0,Endüstriyel
-28 Temmuz-1 Ağustos 2025,141172,Mutfak,Mutfak Sipariş,NİMET ÖZKAN,8.0,14.07.2025,-M2-,-M2T-KM-,W310_Beyaz,-,115.0,Endüstriyel
 28 Temmuz-1 Ağustos 2025,141187,Ek siparis Modül,Mutfak Sipariş,Mecit AYGÜN,6.0,14.07.2025,-V2-,-DP-KM-,F236_Koton Vizon,-,115.0,Endüstriyel
-28 Temmuz-1 Ağustos 2025,140523,Mutfak,Mutfak Sipariş,özben örs,11.0,18.06.2025,-V1-ND3O-,-ML-,F236_Koton Vizon,-,115.0,Lake
-28 Temmuz-1 Ağustos 2025,140524,Mutfak,Mutfak Sipariş,özben örs,16.0,18.06.2025,-V1-ND3O-,-ML-KM-,F236_Koton Vizon,-,115.0,Lake
-28 Temmuz-1 Ağustos 2025,141227,Mutfak,Mutfak Sipariş,BERİL AYDIN,12.0,18.07.2025,-CMK-,-TCM-,0,-,115.0,Endüstriyel
 4-8 Ağustos 2025,141214,Mutfak,Reklamasyon Siparis,ALZE YAPI TEŞHİR,,11.07.2025,-N1-,-ND-,,-,116.0,Doğal Ahşap
-4-8 Ağustos 2025,140822,Mutfak,Mutfak Sipariş,JAN GÜLHAN,21.0,30.06.2025,-B8-,-ML-KM-,F236_Koton Vizon,-,116.0,Lake
 4-8 Ağustos 2025,141156,Mutfak,Mutfak Sipariş,Adem Demirdağ,25.0,17.07.2025,-S1-,-DP-KM-AL-,W310_Beyaz,-,116.0,Endüstriyel
 4-8 Ağustos 2025,140147,Mutfak,Mutfak Sipariş,SİBEL KARAKAYA,28.0,18.06.2025,-N2-,-ML-KM-,F236_Koton Vizon,-,116.0,Lake
 4-8 Ağustos 2025,140264,Mutfak,Mutfak Sipariş,VATAN KONUT,11.0,18.06.2025,-N2-M2-HA-,-ML-KM-ND-,W310_Beyaz,-,116.0,Doğal Ahşap
 4-8 Ağustos 2025,141224,Mutfak,Mutfak Sipariş,Kaan Yalçındağ,18.0,17.07.2025,-T1-,-DP-KM-AL-,F236_Koton Vizon,-,116.0,Endüstriyel
-4-8 Ağustos 2025,141258,Mutfak,Mutfak Sipariş,Gökhan Paçal,13.0,17.07.2025,-T1-ZD3F-,-DP-KM-,F236_Koton Vizon,-,116.0,Endüstriyel
 4-8 Ağustos 2025,141178,Mutfak,Mutfak Sipariş,AYŞE ÖMÜR SAĞMAN,13.0,17.07.2025,-T1-,-KM-DP-AL-KDP-,W310_Beyaz,-,116.0,Endüstriyel
-4-8 Ağustos 2025,141179,Mutfak,Mutfak Sipariş,AYŞE ÖMÜR SAĞMAN,7.0,17.07.2025,-T1-,-DP-KM-AL-,W310_Beyaz,-,116.0,Endüstriyel
-4-8 Ağustos 2025,141074,Mutfak,Mutfak Sipariş,Mehmet Refik Güleç,4.0,17.07.2025,-CP-,-,F236_Koton Vizon,-,116.0,Endüstriyel
 4-8 Ağustos 2025,141228,Ek siparis Modül,Mutfak Sipariş,AYLA ÇELİK,1.0,17.07.2025,-T1-,-,F236_Koton Vizon,-,116.0,Endüstriyel
-4-8 Ağustos 2025,140862,Mutfak,Mutfak Sipariş,BV HORTUM PLASTİK KAUÇUK MAKİNE SAN,5.0,3.07.2025,-N1-,-KM-ND-,A285_Antrasit,-,116.0,Doğal Ahşap
 4-8 Ağustos 2025,140857,Ek siparis Modül,Mutfak Sipariş,HİKMET KARADEMİR,1.0,27.06.2025,-V1-,-,F236_Koton Vizon,-,116.0,Lake
-11-15 Ağustos 2025,140892,Mutfak,Mutfak Sipariş,ZEYNEP ARZU TURAN,14.0,25.07.2025,-S1-,-DP-KM-,F236_Koton Vizon,-,117.0,Endüstriyel
-11-15 Ağustos 2025,141619,Mutfak,Mutfak Sipariş,MECCON MÜH. FATİH YILDIRIM,13.0,25.07.2025,-V2-,-DP-,W310_Beyaz,-,117.0,Endüstriyel
-11-15 Ağustos 2025,141610,Mutfak,Mutfak Sipariş,MURAT ÇETİN,14.0,25.07.2025,-S1-,-DP-KM-KDP-SYH-,W310_Beyaz,-,117.0,Endüstriyel
+11-15 Ağustos 2025,141357,Ek siparis Modül,Mutfak Sipariş,Zeynep Özcan,1.0,18.07.2025,-CM-,-,F236_Koton Vizon,-,117.0,Endüstriyel
+11-15 Ağustos 2025,141464,Mutfak,Toplu İş Siparişi,Remley İnş. Taahhüt Trz. Tşm. San.,33.0,21.07.2025,-MG-ZD3F-,-MDF-KM-MGT-SYH-,F236_Koton Vizon,-,117.0,Endüstriyel
+11-15 Ağustos 2025,141465,Mutfak,Toplu İş Siparişi,Remley İnş. Taahhüt Trz. Tşm. San.,33.0,21.07.2025,-MG-ZD3F-,-MDF-KM-MGT-SYH-,F236_Koton Vizon,-,117.0,Endüstriyel
 11-15 Ağustos 2025,140209,Mutfak,Mutfak Sipariş,Funda Yüksel,22.0,2.07.2025,-T6-,-ML-FML-,F236_Koton Vizon,-,117.0,Lake
 11-15 Ağustos 2025,141007,Mutfak,Mutfak Sipariş,MEHMET TOKGÖNÜL,14.0,9.07.2025,-T6-,-ML-KM-,F236_Koton Vizon,-,117.0,Lake
 11-15 Ağustos 2025,141472,Mutfak,Toplu İş Siparişi,Consera Yapi End. ve Taah. Ltd. Sti,25.0,22.07.2025,-CM-,-CMT-GFR-,F236_Koton Vizon - W310_Beyaz,-,117.0,Endüstriyel
@@ -57,12 +33,12 @@
 11-15 Ağustos 2025,141203,Mutfak,Bayi Teşhir Sipariş,Bakırlar Yapı Malz. İnş. Ltd. Şti.,8.0,22.07.2025,-M2-X1-,-M2T-X1T-,A285_Antrasit,-,117.0,Endüstriyel
 11-15 Ağustos 2025,141202,Mutfak,Bayi Teşhir Sipariş,Bakırlar Yapı Malz. İnş. Ltd. Şti.,13.0,22.07.2025,-V2-ND5O-,-DP-KM-X1T-,F236_Koton Vizon,-,117.0,Endüstriyel
 11-15 Ağustos 2025,141205,Mutfak,Bayi Teşhir Sipariş,Bakırlar Yapı Malz. İnş. Ltd. Şti.,6.0,22.07.2025,-F2-,-DP-DMT-,W310_Beyaz,-,117.0,Endüstriyel
-11-15 Ağustos 2025,141464,Mutfak,Toplu İş Siparişi,Remley İnş. Taahhüt Trz. Tşm. San.,33.0,21.07.2025,-MG-ZD3F-,-MDF-KM-MGT-SYH-,F236_Koton Vizon,-,117.0,Endüstriyel
-11-15 Ağustos 2025,141465,Mutfak,Toplu İş Siparişi,Remley İnş. Taahhüt Trz. Tşm. San.,33.0,21.07.2025,-MG-ZD3F-,-MDF-KM-MGT-SYH-,F236_Koton Vizon,-,117.0,Endüstriyel
-11-15 Ağustos 2025,141357,Ek siparis Modül,Mutfak Sipariş,Zeynep Özcan,1.0,18.07.2025,-CM-,-,F236_Koton Vizon,-,117.0,Endüstriyel
-11-15 Ağustos 2025,141252,Ek siparis Modül,Mutfak Sipariş,ÇAĞLA ERKOÇAK,5.0,18.07.2025,-CM-,-CMT-,A285_Antrasit,-,117.0,Endüstriyel
 11-15 Ağustos 2025,141285,Ek siparis Modül,Toplu İş Siparişi,Consera Yapi End. ve Taah. Ltd. Sti,5.0,22.07.2025,-CM-,-CMT-GFR-,F236_Koton Vizon,-,117.0,Endüstriyel
 11-15 Ağustos 2025,140906,Ek siparis Modül,Mutfak Sipariş,YÜKSEL ÜNAL,2.0,22.07.2025,-F2-,-DP-,W310_Beyaz,-,117.0,Endüstriyel
+11-15 Ağustos 2025,140892,Mutfak,Mutfak Sipariş,ZEYNEP ARZU TURAN,14.0,25.07.2025,-S1-,-DP-KM-,F236_Koton Vizon,-,117.0,Endüstriyel
+11-15 Ağustos 2025,141252,Ek siparis Modül,Mutfak Sipariş,ÇAĞLA ERKOÇAK,5.0,18.07.2025,-CM-,-CMT-,A285_Antrasit,-,117.0,Endüstriyel
+11-15 Ağustos 2025,141619,Mutfak,Mutfak Sipariş,MECCON MÜH. FATİH YILDIRIM,13.0,25.07.2025,-V2-,-DP-,W310_Beyaz,-,117.0,Endüstriyel
+11-15 Ağustos 2025,141610,Mutfak,Mutfak Sipariş,MURAT ÇETİN,14.0,25.07.2025,-S1-,-DP-KM-KDP-SYH-,W310_Beyaz,-,117.0,Endüstriyel
 18-22 Ağustos 2025,140363,Mutfak,Toplu İş Siparişi,TEMEL TEKNİK İNŞ. LTD ŞTİ,19.0,16.06.2025,-N2-,-ML-KM-,F236_Koton Vizon,-,118.0,Lake
 18-22 Ağustos 2025,140364,Mutfak,Toplu İş Siparişi,TEMEL TEKNİK İNŞ. LTD ŞTİ,19.0,16.06.2025,-N2-,-ML-KM-,F236_Koton Vizon,-,118.0,Lake
 18-22 Ağustos 2025,140365,Mutfak,Toplu İş Siparişi,TEMEL TEKNİK İNŞ. LTD ŞTİ,19.0,16.06.2025,-N2-,-ML-,F236_Koton Vizon,-,118.0,Lake
@@ -85,28 +61,22 @@
 18-22 Ağustos 2025,141044,Mutfak,Mutfak Sipariş,ALEV SOLAK,10.0,14.07.2025,-HA-T1-,-ND-DP-MDF-KDP-AL-,F236_Koton Vizon,-,118.0,Doğal Ahşap
 18-22 Ağustos 2025,141046,Mutfak,Mutfak Sipariş,ALEV SOLAK,14.0,14.07.2025,-HA-T1-,-ND-DP-MDF-AL-,F236_Koton Vizon,-,118.0,Doğal Ahşap
 18-22 Ağustos 2025,141168,Mutfak,Mutfak Sipariş,GÖKHAN GÖKÇE,9.0,14.07.2025,-SHA-,-SND-,F236_Koton Vizon,-,118.0,Doğal Ahşap
+25-29 Ağustos 2025,141229,Ek siparis Modül,Mutfak Sipariş,ELİF DENEL,1.0,18.07.2025,-B8-,-,F236_Koton Vizon,-,119.0,Lake
 25-29 Ağustos 2025,140879,Mutfak,Mutfak Sipariş,Esra Yıldız Demir,26.0,14.07.2025,-B3-ZD3F-,-GL-FDP-KM-,F236_Koton Vizon,-,119.0,Lake
-25-29 Ağustos 2025,141198,Mutfak,Mutfak Sipariş,AHMET ERTÜZÜN,17.0,14.07.2025,-V1-,-ML-AL-,F236_Koton Vizon,-,119.0,Lake
 25-29 Ağustos 2025,141201,Mutfak,Bayi Teşhir Sipariş,Bakırlar Yapı Malz. İnş. Ltd. Şti.,13.0,22.07.2025,-T1-F2-,-DP-ML-,F236_Koton Vizon,-,119.0,Lake
 25-29 Ağustos 2025,141351,Ek siparis Modül,Mutfak Sipariş,Eyup Sıddık Onel,4.0,22.07.2025,-F2-,-ML-,F236_Koton Vizon,-,119.0,Lake
-25-29 Ağustos 2025,141229,Ek siparis Modül,Mutfak Sipariş,ELİF DENEL,1.0,18.07.2025,-B8-,-,F236_Koton Vizon,-,119.0,Lake
+25-29 Ağustos 2025,141198,Mutfak,Mutfak Sipariş,AHMET ERTÜZÜN,17.0,14.07.2025,-V1-,-ML-AL-,F236_Koton Vizon,-,119.0,Lake
 1-5 Eylül 2025,141488,Mutfak,Mutfak Sipariş,EYYÜP TARMAN İNŞ.GAYR.YATIRIM VE YÖ,38.0,25.07.2025,-B8-ZD3F-,-ML-ND-SYH-,F236_Koton Vizon,-,120.0,Doğal Ahşap
 1-5 Eylül 2025,141673,Mutfak,Mutfak Sipariş,İPEK DENİM MİMARLIK,26.0,25.07.2025,-HA-B8-ZD3O-,-ND-MDF-SYH-,F236_Koton Vizon,-,120.0,Doğal Ahşap
 1-5 Eylül 2025,141207,Mutfak,Bayi Teşhir Sipariş,Bakırlar Yapı Malz. İnş. Ltd. Şti.,19.0,22.07.2025,-CM-HA-,-ND-CMT-KM-,A285_Antrasit,-,120.0,Doğal Ahşap
 1-5 Eylül 2025,141462,Mutfak,Mutfak Sipariş,JANUS DANIŞMANLIK- MERT TAŞKIRAN AŞ,34.0,22.07.2025,-V1-NY3F-X1-,-X1T-ML-,A285_Antrasit,-,120.0,Lake
 8-12 Eylül 2025,141208,Mutfak,Bayi Teşhir Sipariş,Bakırlar Yapı Malz. İnş. Ltd. Şti.,17.0,22.07.2025,-N2-N1-,-ML-ND-MDF-KM-,F236_Koton Vizon,-,121.0,Doğal Ahşap
 8-12 Eylül 2025,141206,Mutfak,Bayi Teşhir Sipariş,Bakırlar Yapı Malz. İnş. Ltd. Şti.,10.0,22.07.2025,-T7-,-GL-ND-KM-,F236_Koton Vizon,-,121.0,Doğal Ahşap
-10-14 Kasım 2025,141490,Mutfak,Toplu İş Siparişi,Barış Bingüller,11.0,23.07.2025,-V2-,-DP-KM-DMT-,F236_Koton Vizon,-,,Endüstriyel
 10-14 Kasım 2025,141489,Mutfak,Toplu İş Siparişi,Barış Bingüller,11.0,23.07.2025,-V2-,-DP-KM-DMT-,F236_Koton Vizon,-,,Endüstriyel
 10-14 Kasım 2025,141493,Mutfak,Toplu İş Siparişi,Barış Bingüller,11.0,23.07.2025,-V2-,-DP-KM-DMT-,F236_Koton Vizon,-,,Endüstriyel
 10-14 Kasım 2025,141492,Mutfak,Toplu İş Siparişi,Barış Bingüller,11.0,23.07.2025,-V2-,-DP-KM-DMT-,F236_Koton Vizon,-,,Endüstriyel
-10-14 Kasım 2025,141495,Mutfak,Toplu İş Siparişi,Barış Bingüller,11.0,23.07.2025,-V2-,-DP-KM-DMT-,F236_Koton Vizon,-,,Endüstriyel
-10-14 Kasım 2025,141494,Mutfak,Toplu İş Siparişi,Barış Bingüller,11.0,23.07.2025,-V2-,-DP-KM-DMT-,F236_Koton Vizon,-,,Endüstriyel
-10-14 Kasım 2025,141496,Mutfak,Toplu İş Siparişi,Barış Bingüller,11.0,23.07.2025,-V2-,-DP-KM-DMT-,F236_Koton Vizon,-,,Endüstriyel
-10-14 Kasım 2025,141497,Mutfak,Toplu İş Siparişi,Barış Bingüller,11.0,23.07.2025,-V2-,-DP-KM-DMT-,F236_Koton Vizon,-,,Endüstriyel
 10-14 Kasım 2025,141498,Mutfak,Toplu İş Siparişi,Barış Bingüller,15.0,23.07.2025,-V2-ND5O-,-DP-KM-,F236_Koton Vizon,-,,Endüstriyel
 10-14 Kasım 2025,141499,Mutfak,Toplu İş Siparişi,Barış Bingüller,15.0,23.07.2025,-V2-ND5O-,-DP-KM-,F236_Koton Vizon,-,,Endüstriyel
-28 Temmuz-1 Ağustos 2025,141654,Ek siparis Modül,Reklamasyon Siparis,KORAY İNŞ. TİC VE SAN.AŞ - LIBERTE,1.0,25.07.2025,-CM-,-KM-,W310_Beyaz,-,115.0,Endüstriyel
 18-22 Ağustos 2025,141702,Mutfak,Mutfak Sipariş,Alhatoğlu Zeyt.Gıda Ltd.Şti,10.0,28.07.2025,-M2-ZD5O-,-M2T-KM-,F236_Koton Vizon,-,118.0,Endüstriyel
 18-22 Ağustos 2025,140069,Mutfak,Mutfak Sipariş,Alhatoğlu Zeyt.Gıda Ltd.Şti,4.0,25.07.2025,-M2-,-M2T-,F236_Koton Vizon,-,118.0,Endüstriyel
 13-17 Ekim 2025,141633,Mutfak,Toplu İş Siparişi,Park Ticaret ve Turizm İşl. A.Ş.,10.0,25.07.2025,-M2-,-M2T-KM-AL-,F236_Koton Vizon,-,,Endüstriyel
@@ -120,7 +90,6 @@
 13-17 Ekim 2025,141645,Mutfak,Toplu İş Siparişi,Park Ticaret ve Turizm İşl. A.Ş.,10.0,25.07.2025,-M2-,-M2T-KM-AL-,F236_Koton Vizon,-,,Endüstriyel
 13-17 Ekim 2025,141648,Mutfak,Toplu İş Siparişi,Park Ticaret ve Turizm İşl. A.Ş.,10.0,25.07.2025,-M2-,-M2T-KM-AL-,F236_Koton Vizon,-,,Endüstriyel
 13-17 Ekim 2025,141647,Mutfak,Toplu İş Siparişi,Park Ticaret ve Turizm İşl. A.Ş.,10.0,25.07.2025,-M2-,-M2T-KM-AL-,F236_Koton Vizon,-,,Endüstriyel
-13-17 Ekim 2025,141651,Mutfak,Toplu İş Siparişi,Park Ticaret ve Turizm İşl. A.Ş.,10.0,25.07.2025,-M2-,-M2T-KM-AL-,F236_Koton Vizon,-,,Endüstriyel
 13-17 Ekim 2025,141652,Mutfak,Toplu İş Siparişi,Park Ticaret ve Turizm İşl. A.Ş.,10.0,25.07.2025,-M2-,-M2T-KM-AL-,F236_Koton Vizon,-,,Endüstriyel
 13-17 Ekim 2025,141653,Mutfak,Toplu İş Siparişi,Park Ticaret ve Turizm İşl. A.Ş.,10.0,25.07.2025,-M2-,-M2T-KM-AL-,F236_Koton Vizon,-,,Endüstriyel
 13-17 Ekim 2025,141656,Mutfak,Toplu İş Siparişi,Park Ticaret ve Turizm İşl. A.Ş.,10.0,25.07.2025,-M2-,-M2T-KM-AL-,F236_Koton Vizon,-,,Endüstriyel
@@ -151,4 +120,268 @@
 13-17 Ekim 2025,141699,Mutfak,Toplu İş Siparişi,Park Ticaret ve Turizm İşl. A.Ş.,11.0,25.07.2025,-M2-,-M2T-KM-AL-,F236_Koton Vizon,-,,Endüstriyel
 13-17 Ekim 2025,141701,Mutfak,Toplu İş Siparişi,Park Ticaret ve Turizm İşl. A.Ş.,11.0,25.07.2025,-M2-,-M2T-KM-AL-,F236_Koton Vizon,-,,Endüstriyel
 13-17 Ekim 2025,141700,Mutfak,Toplu İş Siparişi,Park Ticaret ve Turizm İşl. A.Ş.,11.0,25.07.2025,-M2-,-M2T-KM-AL-,F236_Koton Vizon,-,,Endüstriyel
-,141918,Ek siparis Modül,Toplu İş Siparişi,SADIKOĞLU GRUP PROJE İNŞAAT SAN.,1.0,29.07.2025,-M2-,-,W310_Beyaz,-,0.0,Endüstriyel
+18-22 Ağustos 2025,140525,Mutfak,Mutfak Sipariş,FUNDA UZUNYOL,4.0,1.08.2025,-T1-,-KM-DP-,W310_Beyaz,-,118.0,Endüstriyel
+18-22 Ağustos 2025,142117,Mutfak,Mutfak Sipariş,FUNDA UZUNYOL,4.0,1.08.2025,-T1-,-KM-DP-,W310_Beyaz,-,118.0,Endüstriyel
+18-22 Ağustos 2025,142169,Mutfak,Toplu İş Siparişi,Remley İnş. Taahhüt Trz. Tşm. San.,23.0,1.08.2025,-MG-ZD3F-,-MGT-MDF-KM-SYH-,F236_Koton Vizon,-,118.0,Endüstriyel
+18-22 Ağustos 2025,142168,Mutfak,Toplu İş Siparişi,Remley İnş. Taahhüt Trz. Tşm. San.,11.0,1.08.2025,-MG-ZD3F-,-MGT-KM-SYH-,F236_Koton Vizon,-,118.0,Endüstriyel
+1-5 Eylül 2025,142112,Mutfak,Mutfak Sipariş,SERDAR İNCE,11.0,1.08.2025,-B8-,-ML-MDF-KM-SYH-,F236_Koton Vizon,-,120.0,Lake
+,142090,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142091,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142092,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142095,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142094,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142098,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141782,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141743,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+6-10 Ekim 2025,141982,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141981,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141983,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+8-12 Eylül 2025,141882,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,10.0,31.07.2025,-M2-SM2-,-M2T-AL-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141883,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141884,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,10.0,31.07.2025,-M2-SM2-,-M2T-AL-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141885,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141886,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,10.0,31.07.2025,-M2-SM2-,-AL-M2T-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141888,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,10.0,31.07.2025,-M2-SM2-,-KM-M2T-AL-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141887,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,10.0,31.07.2025,-M2-SM2-,-AL-M2T-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141889,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141890,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141892,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141891,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141893,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141895,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141896,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141894,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141897,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141898,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141900,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-M2-SM2-,-M2T-AL-KM-SM2T-SYH-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141899,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141901,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-M2-SM2-,-M2T-AL-KM-SM2T-SYH-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141902,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-M2-SM2-,-M2T-AL-KM-SM2T-SYH-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141905,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141903,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141904,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141906,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-M2-SM2-,-AL-KM-M2T-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141907,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141909,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-M2-SM2-,-AL-KM-M2T-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141908,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,1.08.2025,-M2-SM2-,-AL-KM-M2T-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141911,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141913,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141912,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141914,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-SM2-,-M2T-AL-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141917,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-SM2-,-M2T-AL-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141916,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-SM2-,-M2T-AL-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+6-10 Ekim 2025,141985,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141984,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141993,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141994,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141995,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141992,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141996,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141997,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141999,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-SM2T-AL-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141998,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-SM2T-AL-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142000,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-SM2T-AL-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142001,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,18.0,31.07.2025,-M2-SM2-,-AL-M2T-KM-SM2T-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142002,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,20.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142004,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,20.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142003,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,20.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142005,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,20.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142006,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,20.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142007,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,20.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142008,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,20.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142009,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,20.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142010,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,18.0,31.07.2025,-M2-SM2-,-AL-M2T-KM-SM2T-,F236_Koton Vizon,-,,Endüstriyel
+8-12 Eylül 2025,141848,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141849,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+6-10 Ekim 2025,142012,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,19.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142013,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,19.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142014,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,19.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142016,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142015,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142017,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142019,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142018,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+8-12 Eylül 2025,141853,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141854,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+6-10 Ekim 2025,141980,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142027,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,18.0,31.07.2025,-M2-SM2-,-AL-M2T-KM-SM2T-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142030,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,18.0,31.07.2025,-M2-SM2-,-KM-AL-M2T-M1T-SM2T-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142036,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-SM2T-AL-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142037,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-SM2T-AL-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142035,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-SM2T-AL-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142038,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-,F236_Koton Vizon,-,,Endüstriyel
+8-12 Eylül 2025,142040,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,17.0,31.07.2025,-M2-SM2-,-M2T-SM2T-KM-AL-,F236_Koton Vizon,-,121.0,Endüstriyel
+6-10 Ekim 2025,142039,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+8-12 Eylül 2025,141855,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141858,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141857,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141856,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141859,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141860,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141862,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,12.0,31.07.2025,-M2-SM2-,-M2T-KM-AL-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141861,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141863,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,12.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141865,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141864,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141867,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141868,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,10.0,31.07.2025,-M2-SM2-,-M2T-KM-AL-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141866,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,10.0,31.07.2025,-M2-SM2-,-AL-M2T-KM-SM2T-M1T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141870,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,12.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141873,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,15.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141872,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141871,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141874,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,10.0,31.07.2025,-M2-SM2-,-M2T-AL-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141875,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,10.0,31.07.2025,-M2-SM2-,-M2T-AL-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141876,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,10.0,31.07.2025,-M2-SM2-,-M2T-AL-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141878,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141877,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,15.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141879,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141880,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+8-12 Eylül 2025,141881,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,1.08.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
+6-10 Ekim 2025,141923,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141924,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141925,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141938,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,18.0,31.07.2025,-M2-SM2-,-AL-M2T-KM-SM2T-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141940,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,18.0,31.07.2025,-M2-SM2-,-AL-M2T-KM-SM2T-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141942,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,18.0,31.07.2025,-M2-SM2-,-KM-AL-M2T-SM2T-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141941,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,18.0,31.07.2025,-M2-SM2-,-KM-AL-M2T-SM2T-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141943,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,18.0,31.07.2025,-M2-SM2-,-KM-AL-M2T-SM2T-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141972,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,12.0,31.07.2025,-M2-SM2-,-SM2T-AL-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141973,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,12.0,31.07.2025,-M2-SM2-,-SM2T-AL-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141974,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,12.0,31.07.2025,-M2-SM2-,-SM2T-AL-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141976,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,12.0,31.07.2025,-M2-SM2-,-SM2T-AL-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141977,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,12.0,31.07.2025,-M2-SM2-,-SM2T-AL-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141978,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,12.0,31.07.2025,-M2-SM2-,-SM2T-AL-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141975,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,12.0,31.07.2025,-M2-SM2-,-SM2T-AL-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,141979,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142021,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142023,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,22.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+6-10 Ekim 2025,142025,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,,Endüstriyel
+,141742,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141744,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141746,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141747,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141748,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141750,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141751,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141749,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141753,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141752,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141756,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141762,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141760,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141761,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+24-28 Kasım 2025,142422,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142426,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142433,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142429,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142432,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142436,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142442,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142430,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142434,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142431,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142435,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142441,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142439,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142440,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142438,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142445,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142288,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142298,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142289,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142297,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142295,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142291,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142294,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142296,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142299,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142292,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142309,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142303,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142308,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142301,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142305,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142306,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142310,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142302,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142300,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142304,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142307,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142313,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142312,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-KM-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142318,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142316,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142315,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142314,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142326,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142319,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142330,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142323,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142327,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142331,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142322,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142335,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142334,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142338,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142342,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142343,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+24-28 Kasım 2025,142339,Mutfak,Toplu İş Siparişi,Yanık Yapı,,8.08.2025,-M2-,-M2T-KM-AL-,,-,,Endüstriyel
+,141767,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141770,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141771,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141773,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141774,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,141769,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142154,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142153,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142152,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142151,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142157,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142159,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142156,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142070,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142071,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142069,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142068,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142160,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142072,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142074,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142073,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142164,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142162,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142163,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142161,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,13.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+,142075,Mutfak,Toplu İş Siparişi,Mehmet Kamil Güney,14.0,1.08.2025,-T1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
+11-15 Ağustos 2025,141794,Mutfak,Toplu İş Siparişi,GNR Altyapı-Bodrum Proje Adi Ort.,11.0,31.07.2025,-M2-,-M2T-KM-KDP-,F236_Koton Vizon,-,117.0,Endüstriyel
+11-15 Ağustos 2025,141795,Mutfak,Toplu İş Siparişi,GNR Altyapı-Bodrum Proje Adi Ort.,11.0,31.07.2025,-M2-,-M2T-KM-KDP-,F236_Koton Vizon,-,117.0,Endüstriyel
+11-15 Ağustos 2025,141796,Mutfak,Toplu İş Siparişi,GNR Altyapı-Bodrum Proje Adi Ort.,11.0,31.07.2025,-M2-,-M2T-KM-KDP-,F236_Koton Vizon,-,117.0,Endüstriyel
+11-15 Ağustos 2025,141948,Mutfak,Toplu İş Siparişi,GNR Altyapı-Bodrum Proje Adi Ort.,11.0,31.07.2025,-M2-,-M2T-KM-KDP-,F236_Koton Vizon,-,117.0,Endüstriyel
+11-15 Ağustos 2025,141952,Mutfak,Toplu İş Siparişi,GNR Altyapı-Bodrum Proje Adi Ort.,11.0,31.07.2025,-M2-,-M2T-KDP-,F236_Koton Vizon,-,117.0,Endüstriyel
+11-15 Ağustos 2025,141319,Mutfak,Mutfak Sipariş,GNR Altyapı-Bodrum Proje Adi Ort.,11.0,31.07.2025,-M2-,-M2T-KM-KDP-,F236_Koton Vizon,-,117.0,Endüstriyel
+8-12 Eylül 2025,142045,Mutfak,Bayi Teşhir Sipariş,VİENN Mimarlık,18.0,31.07.2025,-V1-X1-ND5O-,-X1T-FML-KM-,F236_Koton Vizon,-,121.0,Lake
+18-22 Ağustos 2025,141766,Mutfak,Mutfak Sipariş,UĞUR SAKLI,8.0,31.07.2025,-M2-ZY3F-,-M2T-KDP-AL-,F236_Koton Vizon - A285_Antrasit,-,118.0,Endüstriyel
+18-22 Ağustos 2025,141763,Mutfak,Mutfak Sipariş,SERAFETTİN BALCI C56,8.0,31.07.2025,-M2-ND3F-ZD3F-,-M2T-FDP-KDP-AL-,F236_Koton Vizon - A285_Antrasit,-,118.0,Endüstriyel
+18-22 Ağustos 2025,141792,Mutfak,Mutfak Sipariş,Ebru Nalbantoğlu,5.0,31.07.2025,-M2-,-M2T-,F236_Koton Vizon,-,118.0,Endüstriyel
+1-5 Eylül 2025,141159,Mutfak,Mutfak Sipariş,NERMİN IRENE TOPLU,20.0,31.07.2025,-N7-B8-NV4F-,-GA-KM-ML-,W310_Beyaz,-,120.0,Lake
+18-22 Ağustos 2025,141787,Mutfak,Mutfak Sipariş,DEMET SALGIR,9.0,31.07.2025,-M2-,-M2T-KM-AL-,F236_Koton Vizon,-,118.0,Endüstriyel
+18-22 Ağustos 2025,141097,Mutfak,Mutfak Sipariş,Ebru Türkdamar,13.0,31.07.2025,-V2-X1-,-DP-X1T-FDP-,F236_Koton Vizon,-,118.0,Endüstriyel
+18-22 Ağustos 2025,141759,Mutfak,Mutfak Sipariş,Ebru Türkdamar,6.0,31.07.2025,-V2-ND5O-,-DP-,F236_Koton Vizon,-,118.0,Endüstriyel
+1-5 Eylül 2025,141772,Mutfak,Mutfak Sipariş,ERKAY ALKAP,13.0,31.07.2025,-B8-,-ML-,F236_Koton Vizon,-,120.0,Lake
+18-22 Ağustos 2025,141557,Mutfak,Mutfak Sipariş,Tunç Kazancıoğlu,7.0,31.07.2025,-DM-M2-ND1S-,-DMT-M2T-KM-AL-,W310_Beyaz,-,118.0,Endüstriyel
+18-22 Ağustos 2025,141808,Mutfak,Mutfak Sipariş,EFEOĞLU TAAHHÜT YAPI,9.0,31.07.2025,-M2-,-M2T-,W310_Beyaz,-,118.0,Endüstriyel
+18-22 Ağustos 2025,141435,Ek Siparis Yedek Parça,Mutfak Sipariş,SABRİYE DİNÇER GÖRENEK,1.0,31.07.2025,-T1-CM-,-,F236_Koton Vizon,-,118.0,Endüstriyel
+15-19 Eylül 2025,142149,Mutfak,Mutfak Sipariş,UFUK KIRATLI,21.0,4.08.2025,-X1-N2-,-X1T-ML-KM-,F236_Koton Vizon,-,122.0,Lake
+18-22 Ağustos 2025,141665,Mutfak,Mutfak Sipariş,Osman Tugay,12.0,4.08.2025,-X1-ZY3F-,-X1T-MDF-SYH-,A285_Antrasit,-,118.0,Endüstriyel
+18-22 Ağustos 2025,142177,Mutfak,Mutfak Sipariş,BAŞAK GÜMÜLCİNELİOĞLU,26.0,4.08.2025,-M2-ZD3F-,-M2T-KM-,F236_Koton Vizon,-,118.0,Endüstriyel
+18-22 Ağustos 2025,142143,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,0.0,4.08.2025,-M2-,-M2T-,0,-,118.0,Endüstriyel
+8-12 Eylül 2025,142063,Mutfak,Mutfak Sipariş,ELİF KUYUMCU,27.0,4.08.2025,-V1-V3C-,-ML-KM-,F236_Koton Vizon,-,121.0,Lake
+18-22 Ağustos 2025,142218,Mutfak,Toplu İş Siparişi,Remley İnş. Taahhüt Trz. Tşm. San.,17.0,5.08.2025,-MG-ZD3F-,-MGT-MDF-KM-SYH-,F236_Koton Vizon,-,118.0,Endüstriyel
+18-22 Ağustos 2025,142212,Mutfak,Toplu İş Siparişi,Remley İnş. Taahhüt Trz. Tşm. San.,20.0,5.08.2025,-MG-ZD3F-,-MGT-MDF-SYH-,F236_Koton Vizon,-,118.0,Endüstriyel
+18-22 Ağustos 2025,142213,Mutfak,Toplu İş Siparişi,Remley İnş. Taahhüt Trz. Tşm. San.,20.0,5.08.2025,-MG-ZD3F-,-MGT-KM-MDF-SYH-,F236_Koton Vizon,-,118.0,Endüstriyel
+25-29 Ağustos 2025,141706,Mutfak,Mutfak Sipariş,GÖKHAN ÖZBATIR,20.0,7.08.2025,-CM-NY3F-ZY3F-,-CMT-KM-SYH-,F236_Koton Vizon,-,119.0,Endüstriyel
+25-29 Ağustos 2025,142165,Mutfak,Mutfak Sipariş,ÖZNUR DASCH,10.0,7.08.2025,-MG-NV3F-,-MGT-,A285_Antrasit,-,119.0,Endüstriyel
+25-29 Ağustos 2025,142229,Mutfak,Mutfak Sipariş,Toygar Üner,2.0,7.08.2025,-T1K-,-TDP-,W310_Beyaz,-,119.0,Endüstriyel
+8-12 Eylül 2025,142269,Mutfak,Mutfak Sipariş,RAFET ARZU DOĞANAY,,8.08.2025,-T6-,-ML-,,-,121.0,Lake
+15-19 Eylül 2025,138883,Mutfak,Mutfak Sipariş,Gökçe Karasu,,8.08.2025,-N2-ZD5O-,-ML-KM-,,-,122.0,Lake
+15-19 Eylül 2025,142245,Mutfak,Mutfak Sipariş,başak erdem,,8.08.2025,-V2-V1-ND5O-,-DP-ML-KM-KDP-,,-,122.0,Lake
