@@ -5632,7 +5632,7 @@
       "Proje Türü": "Mutfak Sipariş",
       "Müşteri": "BAŞAK KOÇAL BERZEK",
       "Modül Adet": "",
-      "Üreticiye Aktarım Tarihi": "0",
+      "Üreticiye Aktarım Tarihi": "22.08.2025",
       "Kapak Prg": "-V1-ND5O-",
       "Tamamlayıcı Prg": "-ML-",
       "Gövde Rengi": "",
@@ -5926,19 +5926,19 @@
       "E/L": "Lake"
     },
     {
-      "Üretim Haftası": "",
+      "Üretim Haftası": "8-12 Eylül 2025",
       "CRMOrderNo": "142775",
-      "Kullanım": "",
-      "Proje Türü": "",
-      "Müşteri": "",
+      "Kullanım": "Ek siparis Modül",
+      "Proje Türü": "Mutfak Sipariş",
+      "Müşteri": "KORAY İNŞ. TİC VE SAN.AŞ - LIBERTE",
       "Modül Adet": "",
-      "Üreticiye Aktarım Tarihi": "",
-      "Kapak Prg": "",
-      "Tamamlayıcı Prg": "",
+      "Üreticiye Aktarım Tarihi": "22.08.2025",
+      "Kapak Prg": "-CM-",
+      "Tamamlayıcı Prg": "-CMT-",
       "Gövde Rengi": "",
       "Teslim Alındı mı?": "",
-      "İndex": "0.0",
-      "E/L": ""
+      "İndex": "121.0",
+      "E/L": "Endüstriyel"
     }
   ],
   "columns": [
@@ -5959,6 +5959,6 @@
   "total_rows": 396,
   "original_rows": 3439,
   "filtered_rows": 3043,
-  "last_updated": "2025-08-24T11:30:52.346847",
+  "last_updated": "2025-08-26T08:44:13.788871",
   "missing_columns": []
 }
