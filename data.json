@@ -346,21 +346,6 @@
       "E/L": "Lake"
     },
     {
-      "Üretim Haftası": "25-29 Ağustos 2025",
-      "CRMOrderNo": "142229",
-      "Kullanım": "Mutfak",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "Toygar Üner",
-      "Modül Adet": "17.0",
-      "Üreticiye Aktarım Tarihi": "7.08.2025",
-      "Kapak Prg": "-T1K-",
-      "Tamamlayıcı Prg": "-TDP-",
-      "Gövde Rengi": "W310_Beyaz",
-      "Teslim Alındı mı?": "-",
-      "İndex": "119.0",
-      "E/L": "Endüstriyel"
-    },
-    {
       "Üretim Haftası": "11-15 Ağustos 2025",
       "CRMOrderNo": "141610",
       "Kullanım": "Mutfak",
@@ -5341,9 +5326,9 @@
     "İndex",
     "E/L"
   ],
-  "total_rows": 355,
+  "total_rows": 354,
   "original_rows": 3442,
-  "filtered_rows": 3087,
-  "last_updated": "2025-08-28T10:00:27.392798",
+  "filtered_rows": 3088,
+  "last_updated": "2025-08-28T12:39:22.483239",
   "missing_columns": []
 }
