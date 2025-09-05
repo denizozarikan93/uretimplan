@@ -241,21 +241,6 @@
       "E/L": "Lake"
     },
     {
-      "Üretim Haftası": "18-22 Ağustos 2025",
-      "CRMOrderNo": "142167",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Reklamasyon Siparis",
-      "Müşteri": "UZKA İNŞAAT",
-      "Modül Adet": "1.0",
-      "Üreticiye Aktarım Tarihi": "1.08.2025",
-      "Kapak Prg": "-M2-",
-      "Tamamlayıcı Prg": "-M2T-",
-      "Gövde Rengi": "F236_Koton Vizon",
-      "Teslim Alındı mı?": "-",
-      "İndex": "118.0",
-      "E/L": "Endüstriyel"
-    },
-    {
       "Üretim Haftası": "4-8 Ağustos 2025",
       "CRMOrderNo": "140264",
       "Kullanım": "Mutfak",
@@ -2282,21 +2267,6 @@
     },
     {
       "Üretim Haftası": "18-22 Ağustos 2025",
-      "CRMOrderNo": "142212",
-      "Kullanım": "Mutfak",
-      "Proje Türü": "Toplu İş Siparişi",
-      "Müşteri": "Remley İnş. Taahhüt Trz. Tşm. San.",
-      "Modül Adet": "20.0",
-      "Üreticiye Aktarım Tarihi": "5.08.2025",
-      "Kapak Prg": "-MG-ZD3F-",
-      "Tamamlayıcı Prg": "-MGT-MDF-SYH-",
-      "Gövde Rengi": "F236_Koton Vizon",
-      "Teslim Alındı mı?": "-",
-      "İndex": "118.0",
-      "E/L": "Endüstriyel"
-    },
-    {
-      "Üretim Haftası": "18-22 Ağustos 2025",
       "CRMOrderNo": "141046",
       "Kullanım": "Mutfak",
       "Proje Türü": "Mutfak Sipariş",
@@ -2309,21 +2279,6 @@
       "Teslim Alındı mı?": "-",
       "İndex": "118.0",
       "E/L": "Doğal Ahşap"
-    },
-    {
-      "Üretim Haftası": "18-22 Ağustos 2025",
-      "CRMOrderNo": "142213",
-      "Kullanım": "Mutfak",
-      "Proje Türü": "Toplu İş Siparişi",
-      "Müşteri": "Remley İnş. Taahhüt Trz. Tşm. San.",
-      "Modül Adet": "20.0",
-      "Üreticiye Aktarım Tarihi": "5.08.2025",
-      "Kapak Prg": "-MG-ZD3F-",
-      "Tamamlayıcı Prg": "-MGT-KM-MDF-SYH-",
-      "Gövde Rengi": "F236_Koton Vizon",
-      "Teslim Alındı mı?": "-",
-      "İndex": "118.0",
-      "E/L": "Endüstriyel"
     },
     {
       "Üretim Haftası": "25-29 Ağustos 2025",
@@ -3314,21 +3269,6 @@
       "Teslim Alındı mı?": "-",
       "İndex": "132.0",
       "E/L": "Endüstriyel"
-    },
-    {
-      "Üretim Haftası": "25-29 Ağustos 2025",
-      "CRMOrderNo": "141198",
-      "Kullanım": "Mutfak",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "AHMET ERTÜZÜN",
-      "Modül Adet": "17.0",
-      "Üreticiye Aktarım Tarihi": "14.07.2025",
-      "Kapak Prg": "-V1-",
-      "Tamamlayıcı Prg": "-ML-AL-",
-      "Gövde Rengi": "F236_Koton Vizon",
-      "Teslim Alındı mı?": "-",
-      "İndex": "119.0",
-      "E/L": "Lake"
     },
     {
       "Üretim Haftası": "1-5 Eylül 2025",
@@ -4636,9 +4576,9 @@
     "İndex",
     "E/L"
   ],
-  "total_rows": 308,
+  "total_rows": 304,
   "original_rows": 3442,
-  "filtered_rows": 3134,
-  "last_updated": "2025-09-04T08:38:17.371575",
+  "filtered_rows": 3138,
+  "last_updated": "2025-09-05T16:57:23.133504",
   "missing_columns": []
 }
