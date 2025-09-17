@@ -1,5 +1,4 @@
 ﻿Üretim Haftası,CRMOrderNo,Kullanım,Proje Türü,Müşteri,Modül Adet,Üreticiye Aktarım Tarihi,Kapak Prg,Tamamlayıcı Prg,Gövde Rengi,Teslim Alındı mı?,İndex,E/L
-18-22 Ağustos 2025,140363,Mutfak,Toplu İş Siparişi,TEMEL TEKNİK İNŞ. LTD ŞTİ,19.0,16.06.2025,-N2-,-ML-KM-,F236_Koton Vizon,-,118.0,Lake
 18-22 Ağustos 2025,140365,Mutfak,Toplu İş Siparişi,TEMEL TEKNİK İNŞ. LTD ŞTİ,19.0,16.06.2025,-N2-,-ML-,F236_Koton Vizon,-,118.0,Lake
 18-22 Ağustos 2025,140367,Mutfak,Toplu İş Siparişi,TEMEL TEKNİK İNŞ. LTD ŞTİ,13.0,16.06.2025,-N2-,-ML-,F236_Koton Vizon,-,118.0,Lake
 18-22 Ağustos 2025,140371,Mutfak,Toplu İş Siparişi,TEMEL TEKNİK İNŞ. LTD ŞTİ,22.0,16.06.2025,-N2-,-ML-,F236_Koton Vizon,-,118.0,Lake
@@ -14,7 +13,6 @@
 18-22 Ağustos 2025,140375,Ek siparis Modül,Toplu İş Siparişi,TEMEL TEKNİK İNŞ. LTD ŞTİ,2.0,16.06.2025,-N2-,-ML-,F236_Koton Vizon,-,118.0,Lake
 18-22 Ağustos 2025,140374,Ek siparis Modül,Toplu İş Siparişi,TEMEL TEKNİK İNŞ. LTD ŞTİ,2.0,16.06.2025,-N2-,-ML-,F236_Koton Vizon,-,118.0,Lake
 4-8 Ağustos 2025,140264,Mutfak,Mutfak Sipariş,VATAN KONUT,11.0,18.06.2025,-N2-M2-HA-,-ML-KM-ND-,W310_Beyaz,-,116.0,Doğal Ahşap
-18-22 Ağustos 2025,140893,Mutfak,Mutfak Sipariş,MİNE NUR ALTINBAŞ,19.0,2.07.2025,-V1-V3C-,-ML-KM-,F236_Koton Vizon,-,118.0,Lake
 8-12 Eylül 2025,141882,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,10.0,31.07.2025,-M2-SM2-,-M2T-AL-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
 8-12 Eylül 2025,141883,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,11.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
 8-12 Eylül 2025,141884,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,10.0,31.07.2025,-M2-SM2-,-M2T-AL-KM-SM2T-,F236_Koton Vizon,-,121.0,Endüstriyel
@@ -139,8 +137,6 @@
 6-10 Ekim 2025,142021,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,13.0,31.07.2025,-M2-SM2-,-AL-M2T-SM2T-KM-,F236_Koton Vizon,-,125.0,Endüstriyel
 6-10 Ekim 2025,142023,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,22.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,125.0,Endüstriyel
 6-10 Ekim 2025,142025,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,14.0,31.07.2025,-M2-SM2-,-M2T-AL-SM2T-KM-,F236_Koton Vizon,-,125.0,Endüstriyel
-18-22 Ağustos 2025,142143,Mutfak,Toplu İş Siparişi,EGE YENİ TURz. & CASPER GY iş ort,0.0,4.08.2025,-M2-,-M2T-,0,-,118.0,Endüstriyel
-1-5 Eylül 2025,142740,Ek siparis Modül,Reklamasyon Siparis,TUĞÇE VARDARLI,1.0,20.08.2025,-MG-,-,F236_Koton Vizon,-,120.0,Endüstriyel
 18-22 Ağustos 2025,140989,Mutfak,Mutfak Sipariş,ALEV SOLAK,7.0,14.07.2025,-HA-T1-,-ND-MDF-KDP-AL-,F236_Koton Vizon,-,118.0,Doğal Ahşap
 18-22 Ağustos 2025,140991,Mutfak,Mutfak Sipariş,ALEV SOLAK,9.0,14.07.2025,-HA-T1-,-ND-MDF-SYH-,F236_Koton Vizon,-,118.0,Doğal Ahşap
 18-22 Ağustos 2025,141044,Mutfak,Mutfak Sipariş,ALEV SOLAK,10.0,14.07.2025,-HA-T1-,-ND-DP-MDF-KDP-AL-,F236_Koton Vizon,-,118.0,Doğal Ahşap
@@ -205,52 +201,35 @@
 24-28 Kasım 2025,142372,Ek siparis Modül,Toplu İş Siparişi,Yanık Yapı,2.0,8.08.2025,-M2-,-M2T-,F236_Koton Vizon,-,132.0,Endüstriyel
 1-5 Eylül 2025,141207,Mutfak,Bayi Teşhir Sipariş,Bakırlar Yapı Malz. İnş. Ltd. Şti.,19.0,22.07.2025,-CM-HA-,-ND-CMT-KM-,A285_Antrasit,-,120.0,Doğal Ahşap
 1-5 Eylül 2025,141221,Mutfak,Mutfak Sipariş,Barış İltir,20.0,14.08.2025,-S1-,-DP-KDP-,F236_Koton Vizon,-,120.0,Endüstriyel
-1-5 Eylül 2025,142134,Mutfak,Bayi Teşhir Sipariş,RONAY İNŞAAT YAPI MALZEMELERİ,9.0,14.08.2025,-M2-,-M2T-KM-,W310_Beyaz,-,120.0,Endüstriyel
 1-5 Eylül 2025,140197,Mutfak,Mutfak Sipariş,Filiz Öke,18.0,13.08.2025,-M2-ZD5O-,-M2T-KM-,F236_Koton Vizon,-,120.0,Endüstriyel
 1-5 Eylül 2025,142492,Mutfak,Mutfak Sipariş,İBRAHİM KURTULAN,18.0,14.08.2025,-V2-V4C-,-DP-KM-KDP-SYH-,F236_Koton Vizon,-,120.0,Endüstriyel
-1-5 Eylül 2025,142158,Mutfak,Mutfak Sipariş,ONUR ÖZBAŞ,19.0,14.08.2025,-M2-,-M2T-KM-SYH-,F236_Koton Vizon,-,120.0,Endüstriyel
 1-5 Eylül 2025,141159,Mutfak,Mutfak Sipariş,NERMİN IRENE TOPLU,20.0,31.07.2025,-N7-B8-NV4F-,-GA-KM-ML-,W310_Beyaz,-,120.0,Lake
 1-5 Eylül 2025,141772,Mutfak,Mutfak Sipariş,ERKAY ALKAP,13.0,31.07.2025,-B8-,-ML-,F236_Koton Vizon,-,120.0,Lake
 1-5 Eylül 2025,142465,Mutfak,Mutfak Sipariş,BİOMES Sağlık Hizmetleri Kozmetik,14.0,14.08.2025,-S1-,-DP-KM-TZG3-ZPE-,F236_Koton Vizon,-,120.0,Endüstriyel
-1-5 Eylül 2025,141777,Ek siparis Modül,Mutfak Sipariş,Turgut Koç,6.0,14.08.2025,-V2-ND5O-,-FDP-,F236_Koton Vizon,-,120.0,Endüstriyel
 1-5 Eylül 2025,141488,Mutfak,Mutfak Sipariş,EYYÜP TARMAN İNŞ.GAYR.YATIRIM VE YÖ,38.0,25.07.2025,-B8-ZD3F-,-ML-ND-SYH-,F236_Koton Vizon,-,120.0,Doğal Ahşap
 1-5 Eylül 2025,141673,Mutfak,Mutfak Sipariş,İPEK DENİM MİMARLIK,26.0,25.07.2025,-HA-B8-ZD3O-,-ND-MDF-SYH-,F236_Koton Vizon,-,120.0,Doğal Ahşap
 1-5 Eylül 2025,139428,Mutfak,Mutfak Sipariş,CEM BERKTAŞ,7.0,19.08.2025,-M2-,-KM-M2T-TZG3-ZPK-,W310_Beyaz,-,120.0,Endüstriyel
 1-5 Eylül 2025,142566,Mutfak,Mutfak Sipariş,BAHA ARBAK,17.0,19.08.2025,-V2-V4C-,-DP-SYH-,F236_Koton Vizon,-,120.0,Endüstriyel
 1-5 Eylül 2025,142567,Mutfak,Mutfak Sipariş,BAHA ARBAK,4.0,19.08.2025,-F2-,-FDP-AL-,F236_Koton Vizon,-,120.0,Endüstriyel
 1-5 Eylül 2025,142638,Mutfak,Mutfak Sipariş,Lider Mim. Müh. Tic. Ltd. Şti.,11.0,19.08.2025,-T1-,-DP-SYH-,W310_Beyaz,-,120.0,Endüstriyel
-1-5 Eylül 2025,142475,Mutfak,Mutfak Sipariş,BETÜL ÇELİK,20.0,19.08.2025,-M2-,-M2T-KM-,F236_Koton Vizon,-,120.0,Endüstriyel
-1-5 Eylül 2025,142468,Mutfak,Mutfak Sipariş,BAŞAK HÜSEYİNOĞLU,25.0,19.08.2025,-V2-V4C-,-DP-KM-FDP-,F236_Koton Vizon,-,120.0,Endüstriyel
 1-5 Eylül 2025,141170,Mutfak,Mutfak Sipariş,Serap Tabanlı,25.0,19.08.2025,-V2-V4C-,-DP-KM-,F236_Koton Vizon,-,120.0,Endüstriyel
 1-5 Eylül 2025,142194,Mutfak,Mutfak Sipariş,NEZİR ALKOÇ,21.0,19.08.2025,-S1-,-DP-KM-AL-,W310_Beyaz,-,120.0,Endüstriyel
 1-5 Eylül 2025,142260,Mutfak,Mutfak Sipariş,Nurcan Çam,20.0,19.08.2025,-S1-V2-,-DP-FDP-,F236_Koton Vizon,-,120.0,Endüstriyel
-1-5 Eylül 2025,142652,Mutfak,Mutfak Sipariş,SERKAN MERCİMEK,11.0,19.08.2025,-F2-,-DP-SYH-,F236_Koton Vizon,-,120.0,Endüstriyel
 1-5 Eylül 2025,142474,Mutfak,Mutfak Sipariş,gönül kalyoncu,15.0,19.08.2025,-V2-,-DP-,F236_Koton Vizon,-,120.0,Endüstriyel
-1-5 Eylül 2025,142559,Mutfak,Mutfak Sipariş,Akın Shipping Taşımacılık LTD. ŞTİ.,16.0,19.08.2025,-CM-,-CMT-KM-MDF-SYH-,F236_Koton Vizon,-,120.0,Endüstriyel
 1-5 Eylül 2025,142583,Mutfak,Mutfak Sipariş,Via Mehmet Beşe Tasarım Dek. Proje,18.0,19.08.2025,-V2-,-DP-DMT-AL-,F236_Koton Vizon,-,120.0,Endüstriyel
 1-5 Eylül 2025,142588,Mutfak,Mutfak Sipariş,Via Mehmet Beşe Tasarım Dek. Proje,20.0,19.08.2025,-V2-,-KDP-DMT-KM-AL-,F236_Koton Vizon,-,120.0,Endüstriyel
-1-5 Eylül 2025,142546,Ek siparis Modül,Mutfak Sipariş,BÜLENT AYTÖRE,1.0,19.08.2025,-MG-,-,F236_Koton Vizon,-,120.0,Endüstriyel
-1-5 Eylül 2025,142262,Ek siparis Modül,Mutfak Sipariş,ÇİĞDEM SORGÜVEN ÇAMUR,3.0,19.08.2025,-X1-,-,F236_Koton Vizon,-,120.0,Endüstriyel
-1-5 Eylül 2025,142586,Ek siparis Modül,Mutfak Sipariş,Hüseyin Arda Açmazlale,1.0,19.08.2025,-CP-,-,W310_Beyaz,-,120.0,Endüstriyel
 8-12 Eylül 2025,141208,Mutfak,Bayi Teşhir Sipariş,Bakırlar Yapı Malz. İnş. Ltd. Şti.,17.0,22.07.2025,-N2-N1-,-ML-ND-MDF-KM-,F236_Koton Vizon,-,121.0,Doğal Ahşap
 8-12 Eylül 2025,141206,Mutfak,Bayi Teşhir Sipariş,Bakırlar Yapı Malz. İnş. Ltd. Şti.,10.0,22.07.2025,-T7-,-GL-ND-KM-,F236_Koton Vizon,-,121.0,Doğal Ahşap
 8-12 Eylül 2025,142202,Mutfak,Bayi Teşhir Sipariş,Sayitoğlu Yapı ,24.0,19.08.2025,-ND5O-V2-X1-,-DP-M2T-FDP-X1T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
 8-12 Eylül 2025,142587,Mutfak,Mutfak Sipariş,gizem bancı,29.0,19.08.2025,-M2-ZD3F-,-M2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
 8-12 Eylül 2025,141260,Mutfak,Mutfak Sipariş,EZGİ MORALIOĞLU,11.0,19.08.2025,-V2-ND5O-,-DP-KDP-,F236_Koton Vizon,-,121.0,Endüstriyel
-8-12 Eylül 2025,141737,Mutfak,Mutfak Sipariş,Nihat Pelister,19.0,19.08.2025,-M2-ND3F-,-M2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
-8-12 Eylül 2025,142571,Mutfak,Mutfak Sipariş,ZEYNEP ATAMAN,16.0,19.08.2025,-S1-ND5O-,-DP-KM-FDP-KDP-,F236_Koton Vizon,-,121.0,Endüstriyel
 8-12 Eylül 2025,142137,Mutfak,Bayi Teşhir Sipariş,RONAY İNŞAAT YAPI MALZEMELERİ,14.0,20.08.2025,-X1-CM-CP-,-CPT-X1T-CMT-MDF-KM-SYH-,A285_Antrasit - W310_Beyaz,-,121.0,Endüstriyel
 8-12 Eylül 2025,142136,Mutfak,Bayi Teşhir Sipariş,RONAY İNŞAAT YAPI MALZEMELERİ,11.0,20.08.2025,-S1-,-DP-X1T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
-8-12 Eylül 2025,140911,Mutfak,Mutfak Sipariş,MELİKE ÖZ,18.0,20.08.2025,-M2-ZD5O-,-M2T-MDF-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
 8-12 Eylül 2025,142541,Mutfak,Mutfak Sipariş,RAYMOND DYER,4.0,20.08.2025,-F2-,-FDP-,A285_Antrasit,-,121.0,Endüstriyel
-8-12 Eylül 2025,142589,Mutfak,Mutfak Sipariş,Güven Eken,8.0,20.08.2025,-V2-V4C-,-DP-,W310_Beyaz,-,121.0,Endüstriyel
 8-12 Eylül 2025,142592,Mutfak,Mutfak Sipariş,Güven Eken,8.0,20.08.2025,-V2-,-DP-DMT-,W310_Beyaz,-,121.0,Endüstriyel
 8-12 Eylül 2025,142649,Mutfak,Mutfak Sipariş,MUHAMMED HALİL AYYILDIZ,17.0,20.08.2025,-M2-ZY3F-,-M2T-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
 8-12 Eylül 2025,142607,Mutfak,Mutfak Sipariş,Timur Pırıldar,15.0,20.08.2025,-T1-ZD5O-,-DP-KM-,F236_Koton Vizon,-,121.0,Endüstriyel
-8-12 Eylül 2025,141347,Mutfak,Mutfak Sipariş,Şeyma Bayıksel,15.0,20.08.2025,-V2-V4C-,-DP-,F236_Koton Vizon,-,121.0,Endüstriyel
-8-12 Eylül 2025,142775,Ek siparis Modül,Mutfak Sipariş,KORAY İNŞ. TİC VE SAN.AŞ - LIBERTE,2.0,22.08.2025,-CM-,-CMT-,W310_Beyaz,-,121.0,Endüstriyel
 ,142841,Ek siparis Modül,Mutfak Sipariş,NESRİN DERİKESEN,3.0,25.08.2025,-LN-ZY3F-,-LNT-KM-,A285_Antrasit,-,0.0,Endüstriyel
-,142852,Ek siparis Modül,Mutfak Sipariş,KARNAK DIS TICARET VE TURIZM LTD ST,2.0,26.08.2025,-S1-,-DP-,F236_Koton Vizon,-,0.0,Endüstriyel
 8-12 Eylül 2025,142045,Mutfak,Bayi Teşhir Sipariş,VİENN Mimarlık,18.0,31.07.2025,-V1-X1-ND5O-,-X1T-FML-KM-,F236_Koton Vizon,-,121.0,Lake
 8-12 Eylül 2025,142078,Ek siparis Modül,Mutfak Sipariş,DERYA KIZILDAĞ,2.0,31.07.2025,-N2-,-ML-,F236_Koton Vizon,-,121.0,Lake
 15-19 Eylül 2025,142451,Mutfak,Mutfak Sipariş,Camelot Yapı Taah. ve Tic. A.Ş.,12.0,14.08.2025,-B8-,-ML-MDF-KM-SYH-,F236_Koton Vizon,-,122.0,Lake
@@ -289,7 +268,14 @@
 20-24 Ekim 2025,142972,Mutfak,Mutfak Sipariş,görkem aker,17.0,4.09.2025,-V1-F1-,-ML-FML-KM-,F236_Koton Vizon,-,127.0,Lake
 22-26 Eylül 2025,142953,Mutfak,Mutfak Sipariş,FUNDA GÜRSOY,30.0,4.09.2025,-T1-MG-ZY3F-,-CMT-MGT-SYH-,F236_Koton Vizon,-,123.0,Endüstriyel
 22-26 Eylül 2025,143059,Mutfak,Mutfak Sipariş,NİLGÜN HELVA,3.0,4.09.2025,-LN-,-LNT-,F236_Koton Vizon,-,123.0,Endüstriyel
-15-19 Eylül 2025,143036,Ek siparis Modül,Mutfak Sipariş,Ebru Türkdamar,1.0,4.09.2025,-,-,F236_Koton Vizon,-,122.0,
 22-26 Eylül 2025,142644,Mutfak,Mutfak Sipariş,SERNUR SAYAR,15.0,8.09.2025,-M2-,-KM-M2T-SYH-,F236_Koton Vizon,-,123.0,Endüstriyel
 22-26 Eylül 2025,143099,Mutfak,Mutfak Sipariş,MÜNİR TEKGÜL,1.0,8.09.2025,-CP-,-AL-,W310_Beyaz,-,123.0,Endüstriyel
 22-26 Eylül 2025,143074,Mutfak,Mutfak Sipariş,MUHAMMED HALİL AYYILDIZ,6.0,8.09.2025,-V2-V4C-,-DP-KM-,W310_Beyaz,-,123.0,Endüstriyel
+29 Eylül-3 Ekim 2025,143155,Mutfak,Mutfak Sipariş,SEZEN ÇAKIR,26.0,12.09.2025,-V2-V4C-,-DP-KM-,F236_Koton Vizon,-,124.0,Endüstriyel
+13-17 Ekim 2025,142853,Mutfak,Mutfak Sipariş,BİLGE TEYMUR,15.0,12.09.2025,-B8-ZD3S-,-ML-KM-,F236_Koton Vizon,-,126.0,Lake
+29 Eylül-3 Ekim 2025,142626,Mutfak,Mutfak Sipariş,Ebrar Baytemir,12.0,12.09.2025,-V2-F2-ND5O-,-FDP-KM-,F236_Koton Vizon,-,124.0,Endüstriyel
+29 Eylül-3 Ekim 2025,143226,Mutfak,Mutfak Sipariş,RIFAT BERK ŞANLI,8.0,12.09.2025,-MG-,-KM-,F236_Koton Vizon - A285_Antrasit,-,124.0,Endüstriyel
+,143280,Mutfak,Mutfak Sipariş,Kaan Şerifoğlu,3.0,16.09.2025,-V2-,-DP-DMT-,F236_Koton Vizon,-,0.0,Endüstriyel
+,143297,Mutfak,Mutfak Sipariş,ORHAN KARAKOÇ,32.0,16.09.2025,-V1-V3C-,-ML-FML-KM-ND-,F236_Koton Vizon,-,0.0,Doğal Ahşap
+,142875,Mutfak,Mutfak Sipariş,GÖNEN İNŞAAT TAAH. TURİZM GIDA TİCA,18.0,16.09.2025,-M2-,-M2T-,F236_Koton Vizon,-,0.0,Endüstriyel
+,143319,Ek Siparis Yedek Parça,Reklamasyon Siparis,UZKA İNŞAAT,,16.09.2025,-M2-,-,,,0.0,Endüstriyel
